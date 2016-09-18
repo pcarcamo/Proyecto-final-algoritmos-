@@ -1,0 +1,6 @@
+c:\users\sandra\documents\visual studio 2015\Projects\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.exe.config
+c:\users\sandra\documents\visual studio 2015\Projects\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.exe
+c:\users\sandra\documents\visual studio 2015\Projects\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.pdb
+c:\users\sandra\documents\visual studio 2015\Projects\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.csprojResolveAssemblyReference.cache
+c:\users\sandra\documents\visual studio 2015\Projects\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.exe
+c:\users\sandra\documents\visual studio 2015\Projects\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.pdb
